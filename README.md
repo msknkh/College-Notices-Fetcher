@@ -13,4 +13,9 @@ Pandas and Numpy are modules to handle data, sendgrid is the emailing API, bs4 i
 
 Now scripts are scheduled to run daily with the help of crontab.
 ### To edit crontab
-     crontab -e
+    crontab -e
+
+
+After scheduling the tasks save the changes and exit.
+The emails would be recieved at the scheduled time every day.
+    
